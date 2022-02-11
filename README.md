@@ -9,4 +9,4 @@ Pojeto de autoria própria e desenvolvido para Residência de Software - Porto D
 ## Link de acesso
 Visualizar protótipo navegável (App): https://xd.adobe.com/view/236c22f4-ce49-47c5-9755-f120d6437bb9-763f/?fullscreen 
 
-Visualizar site (desenvolvido para disciplina de Programação Web): 
+Visualizar site (desenvolvido para disciplina de Programação Web): https://elaresolve.netlify.app/
