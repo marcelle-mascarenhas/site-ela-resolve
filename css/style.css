@@ -83,7 +83,7 @@ header .navbar a:hover{
     display: flex;
     align-items: center;
     justify-content: center;
-    background:url(home-bg-img6.png) no-repeat;
+    background:url(/image/home-bg-img6.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -276,7 +276,7 @@ header .navbar a:hover{
 }
 
 .como-funciona .box-container .box p{
-    font-size: 1.7rem;
+    font-size: 1.3rem;
     color:rgb(101, 67, 255);
     padding: 1rem 0;
    
@@ -286,16 +286,17 @@ header .navbar a:hover{
 /*----------------------------quero ser profissional ------------------------------------*/
 
 .profissional{
-    display: flex;
-    background-image: url("profissional-bg.png");
+    display: block;
+    background-image: url("/image/profissional-bg.png");
     background-size: cover;
     background-repeat: no-repeat;
     align-items: center;
-    justify-content:right;
+    
 }
 
 .profissional .conteudo #conteudo-1{
-    font-size: 6.9rem;
+    margin-top: 5rem;
+    font-size: 5.9rem;
     color:rgb(243, 228, 255) ;
     padding:1rem 4;
     font-weight: 200;
